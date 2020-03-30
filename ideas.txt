@@ -1,0 +1,9 @@
+Mircea,SuperTareFrate,proposed,1
+Mircea,2XSuperTareFrate,proposed,3
+Pintea,GEomEtry,proposed,2
+Dorin,Blunt,accepted,1
+Mihalcea,MarryJane,accepted,2
+Mihalcea,Jane,proposed,1
+Dan,Cocaine,proposed,3
+Dan,CrazyShit,proposed,1
+Dan,LSD-pig-VS-fox,proposed,2

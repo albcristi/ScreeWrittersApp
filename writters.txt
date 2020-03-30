@@ -1,0 +1,6 @@
+Dan,Assistant
+Mircea,Junior
+Coldea,Senior
+Pintea,Assistant
+Dorin,Senior
+Mihalcea,Junior
